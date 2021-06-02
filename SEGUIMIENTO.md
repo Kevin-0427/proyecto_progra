@@ -1,3 +1,25 @@
+# proyecto de programación
+proyecto de trabajo 
+## Descripcion 
+
+## integrantes 
+-Iván Zuñiga Palacio
+-kevin Alexis Vergara Rojas  
+
+## Recursos 
+-[Guia de markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+-[MiDI]
+
+### ¿Qué hemos hecho?
+  Crear el repositorio 
+  
+### ¿Qué vamos a hacer?
+ El programa base 
+ 
+ ### ¿Qué dificultad hemos tenido? 
+   Tuve un problema con el repositorio, porque me equivoqué al subir unos datos que eran para otro proyecto, por ello reinicie desde 0
+ 
+
 ## 11 de abril - Seguimiento
 
 - ¿Qué hemos hecho?
@@ -133,3 +155,7 @@
 
   - Control de actualización de la consola sin saltar de línea
   - Animación, demanda mucho tiempo de dediación y este no es un tema critico del proyecto.
+
+
+
+
